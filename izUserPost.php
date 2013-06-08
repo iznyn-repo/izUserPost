@@ -8,7 +8,7 @@ Author: Iznyn
 Author URI: http://iznyn.com/
 */
 
-/*  
+/**  
     LICENSE: This source file to be part of a system developed by Iznyn 
     All copyrights use this file and the code in it owned by Iznyn. 
     It is strictly forbidden to use, copy, modify or distribute this file and 
